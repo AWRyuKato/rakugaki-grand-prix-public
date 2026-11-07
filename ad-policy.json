@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "valid_until_unix": 1796601600,
+  "ads_enabled": false,
+  "platforms": {
+    "android": false,
+    "ios": false
+  },
+  "formats": {
+    "rewarded": false,
+    "interstitial": false
+  }
+}
